@@ -1,16 +1,16 @@
-## Hi, I'm Imran Naseer
+## 👨‍💻 Who Am I?
+I'm Imran Naseer, a Cyber Security student passionate about Ethical Hacking, IAM, Cloud Security, and SOC Operations. I also work on Full Stack Development and AI-based security solutions.
 
-<!--
-**imrannaseer123/imrannaseer123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What Am I Currently Working On?
+- AI-powered IoT Intrusion Detection System
+- Penetration Testing & Red Teaming
+- Cloud & API Security
+- Secure Full Stack Web Applications
 
-Here are some ideas to get you started:
+## ⚒️ Tools & Technologies
+Python • JavaScript • PHP • MySQL • Kali Linux • Wireshark • Burp Suite • Nmap • Metasploit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+💼 LinkedIn: linkedin.com/in/imran-naseer  
+🌐 Portfolio: Coming Soon  
+📧 Email: your-email@example.com
