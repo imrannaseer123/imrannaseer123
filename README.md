@@ -1,5 +1,6 @@
 Hi, I'm Imran Naseer
-A Cyber Security student passionate about Ethical Hacking, IAM, Cloud Security, and SOC Operations. I also work on Full Stack Development and AI-based security solutions.
+B.tech CE (Cyber Security) Specialization Student 
+Passionate about Ethical Hacking | IAM | Cloud Security | SOC Operations  | Full Stack Development | AI-based security solutions
 
 ## 🚀 What Am I Currently Working On?
 - AI-powered IoT Intrusion Detection System
