@@ -11,7 +11,7 @@ Passionate about Ethical Hacking | IAM | Cloud Security | SOC Operations  | Full
 - Secure Full Stack Web Applications
 
 ## ⚒️ Tools & Technologies
-Python • JavaScript • PHP • MySQL • Kali Linux • Wireshark • Burp Suite • Nmap • Metasploit
+Python • JavaScript • HTML • CSS • Java • C • C++ • MySQL • Kali Linux • Wireshark • Burp Suite • Nmap • Metasploit
 
 ## 📫 How to Reach Me
 💼 LinkedIn: www.linkedin.com/in/imran-naseer-9253733ba  
