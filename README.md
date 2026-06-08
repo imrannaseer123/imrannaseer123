@@ -1,6 +1,6 @@
 ## Hi, I'm Imran Naseer
 
-B.tech CE (Cyber Security) Specialization Student
+B.tech Computer Engineering (Cyber Security) Specialization Student
 
 Passionate about Ethical Hacking | IAM | Cloud Security | SOC Operations  | Full Stack Development | AI-based security solutions
 
