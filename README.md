@@ -5,6 +5,7 @@ B.tech Computer Engineering (Cyber Security) Specialization Student
 Passionate about Ethical Hacking | IAM | Cloud Security | SOC Operations  | Full Stack Development | AI-based security solutions
 
 ## 🚀 What Am I Currently Working On?
+- Working on real time phishing analyzer
 - Penetration Testing & Red Teaming
 - Cloud & API Security
 - Secure Full Stack Web Applications
