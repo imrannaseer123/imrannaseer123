@@ -6,8 +6,7 @@ Passionate about Ethical Hacking | IAM | Cloud Security | SOC Operations  | Full
 
 ## 🚀 What Am I Currently Working On?
 - Working on Prompt Optimizer extension
-- Penetration Testing & Red Teaming
-- Cloud & API Security
+- Vulnerability Assessment and Penetration Testing
 - Secure Full Stack Web Applications
 
 ## ⚒️ Tools & Technologies
