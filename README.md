@@ -2,7 +2,7 @@
 
 B.tech Computer Engineering (Cyber Security) Specialization Student
 
-Passionate about Ethical Hacking | IAM | Cloud Security | SOC Operations  | Full Stack Development | AI-based security solutions
+Passionate about Ethical Hacking | IAM | Cloud Security | Prompt Engineering | Full Stack Development | AI-based security solutions
 
 ## 🚀 What Am I Currently Working On?
 - Working on Prompt Optimizer extension
