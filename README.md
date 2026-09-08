@@ -5,9 +5,9 @@ B.tech Computer Engineering (Cyber Security) Specialization Student
 Passionate about Ethical Hacking | IAM | Cloud Security | Prompt Engineering | Full Stack Development | AI-based security solutions
 
 ## 🚀 What Am I Currently Working On?
-- Working on Prompt Optimizer extension
 - Vulnerability Assessment and Penetration Testing
 - Secure Full Stack Web Applications
+- Insider Threat Prediction Framework Using Continous Behaviour Analytics
 
 ## ⚒️ Tools & Technologies
 Python • JavaScript • HTML • CSS • Java • C • C++ • MySQL • Kali Linux • Wireshark • Burp Suite • Nmap • Metasploit
